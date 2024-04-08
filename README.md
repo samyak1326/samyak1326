@@ -5,7 +5,7 @@ Hello! I'm Samyak, an avid coder with a passion for software development. I'm cu
 
 * 🌍  I'm based in Fairfax, VA, USA
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/samyakjain1301)
-* ✉️  You can contact me at [jainsamyak.cse@mail.com](mailto:jainsamyak.cse@gmail.com)
+* ✉️  You can contact me at [jainsamyak.cse@gmail.com](mailto:jainsamyak.cse@gmail.com)
 * ⚡  I am quite lazy !!
 
 ### Skills
